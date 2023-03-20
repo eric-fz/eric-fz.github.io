@@ -1,0 +1,15 @@
+---
+layout: post
+title: "IAP 2023: Mags the Chess Robot"
+---
+### Overview
+
+In October of 2022, my friends and I decided to tackle a challenging personal project. With funding from MIT's ProjX grant and IAP minigrant, we designed, manufactured, programmed, and assembled an unbeatable chess robot. In February, we showcased our robot at MIT's [XFair](https://xfair.io/) to students and companies. The robot features a [core-xy](https://corexy.com/) gantry (similar to those of high end 3D printers, an electromagnet), a carbon fiber board, and 3d printed game pieces. My responsibilities included designing parts of the board in Onshape CAD software, soldering electrical components, and assembling and testing the final board. 
+
+
+You can read more about the project in detail on my friend [Keiji's blog post](https://kogappa.com/projects/mags/), and watch it playing [here](https://www.youtube.com/watch?v=14NL_39Ftnc&ab_channel=KeijiImai)!
+
+### Images
+
+![Electrical]( https://lh3.googleusercontent.com/pw/AMWts8CjI0TbNZD50ioJsv0fUt2AB8mPrs5uLGew1uF3YRzi110FMnCoZSIIAieN3zQE5j83N5TrfyfBRavL10I4UQrtd4eMMAo0Mto-jG_gLvAnKEjsuA-H4nmyXWbAXpBmMfQvCtDIT0e2V4QRSQ5gddI6Cg=w2292-h1289-no?authuser=0"Bottom of board")
+![placeholder](https://lh3.googleusercontent.com/pw/AMWts8Bf_gDDnMEyiJVS_c2RmFmHdl70EIG7w1Jdfp3ZbcDInZ9nZpNs5OP13pa0ADc9c4m8TIiRdbh00u0dDw5uPYH8ZUAJyXMKy6JpspIa8bHCua1h0UnIBgVCJFbMAtkCejkv9oVfIHuzyYb9jDzX35MsaQ=w1889-h1289-no?authuser=0"Medium example image")
