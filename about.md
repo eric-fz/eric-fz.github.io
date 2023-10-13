@@ -5,6 +5,8 @@ title: About
 
 ### Me
 
+![ericphoto](/EricPhoto.JPG)
+
 Hi there! I'm Eric, a first-year student at MIT studying mechanical engineering, robotics, and management. I also dabble in graphic design and video editing. Here you'll find a collection of projects I've worked on individually and with friends. My resume is linked [here](/resume.pdf). If you have any questions, feel free to email me at [ericz@mit.edu](mailto:ericz@mit.edu).
 
 ### My Interests
