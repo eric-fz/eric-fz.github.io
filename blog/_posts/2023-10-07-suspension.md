@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fall 2023: Suspension Design"
-truncated_preview: true
+truncated_preview: false
 excerpt_separator: <!--more-->
 ---
 ### Overview
@@ -10,8 +10,6 @@ Since June, I have been working with the MIT Motorsports Formula SAE Team to des
 
 ![MY18Susp](/my18susp.jpeg)
 *Suspension from MIT's 2018 racecar*
-
-<!--more-->
 
 As suspension lead, I am managing a team of over 15 members to design the pull rods, ARBs, rockers, and steering, starting from first principles. I am also in charge of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. 
 
@@ -27,3 +25,10 @@ One challenge Iâ€™ve faced in the design process so far is determining our carâ€
 
 ![cambscript](/camberscript.png)
 *Camber script in Lapsim*
+
+I've also had the opportunity to apply the formulas I've learned in my Mechanics and Materials I and Physics classes to size many of the suspension components. Most notably, I helped rework our suspension rod sizing calculations from first principles, as our push rods have buckled in previous years due to inaccurate sizing. First, I helped determine the maximum load cases each suspension rod faces, starting from measured values of maximum bump loading (3kN), acceleration (1.5G), braking (2G), and lateral load transfer. We utilized FSAEillumina's [excel spreadsheet](https://fswiki.us/Suspension_Forces), which uses matrix math to represent each control rod as a vector, and each load case as a matrix of three-dimensional loads. This spreadsheet takes in the coordinates of each control rod end point and tire forces, and outputs the maximum tension and compression each rod will experience. From this spreadsheet, I worked with the A-arms subsystem lead to calculate the yield strengths for different rod radii/material under bending, euler buckling, tension, and compression. The largest source of stress is from the pull rod, which isn't connected directly to the wheel packages, but to a connection on the A-arm itself. The vertical force caused by the pull rod creates a non-negligble bending moment on the upper A-arms, which we sized conservatively for, and are also planning on performing FEA for. Of course, these calculations cannot accurately account for possible manufacturing error, which could cause eccentric buckling, so each rod is sized with a 1.5 factor of safety, and we've developed a thorough manufacturing plan to ensure our machined components meet our tolerance requirements. 
+
+You can find our hand calculations excel spreadsheet [here.](/Aarms.xlsm)
+
+![MotionAnalysis](/MotionAnalysis.png)
+*I performed motion analysis on our final suspension points to check for interferences with the rims*
