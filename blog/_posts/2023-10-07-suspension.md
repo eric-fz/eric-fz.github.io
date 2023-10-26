@@ -31,4 +31,4 @@ I've also had the opportunity to apply the formulas I've learned in my Mechanics
 You can find our hand calculations excel spreadsheet [here.](/Aarms.xlsm)
 
 ![MotionAnalysis](/MotionAnalysis.png)
-*I performed motion analysis on our final suspension points to check for interferences with the rims*
+*I performed motion analysis on our final suspension points to check for interferences with the wheel center rims*
