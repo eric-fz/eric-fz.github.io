@@ -8,13 +8,11 @@ excerpt_separator: <!--more-->
 
 ![SuspensionGif](/SuspensionGif.gif)
 ![SuspensionRL](/SuspensionRL.png)
+![SuspensionCAD](/suspensionfullcad.png)
 
 Since June, I have been working with the MIT Motorsports Formula SAE Team to design the entirety of the suspension system for the Model Year 2024 car. The design process for each subsystem begins with vehicle dynamics and kinematics, geometric constraints, and team goals, and with these factors, we set specific design requirements. We then follow a series of design reviews as the subsystems develop from various conceptual architectures to fully-fledged CAD models, to physical parts in January. The suspension team simulates tire properties and suspension geometry using Matlab, OptimumK, and Optimum Tire. For CAD, CAM, and FEA we use Siemens NX. All parts on the suspension system are machined in-house using our HAAS CNC Mill, manual lathes, and 3D printers. To validate the simulated vehicle dynamics and load cases, various sensors were implemented onto the physical car. These included an IMU, strain gauges on the control rods, and shock potentiometers. Attached is the [design binder](/MY24%20Suspension%20Design%20Binder.pdf) for the suspension, as well as a [poster](/SuspensionDeFlorez.pdf) I submitted to MIT's DeFlorez Mechanical Engineering Awards. 
 
 <!--more-->
-
-![MY18Susp](/my18susp.jpeg)
-*Suspension from MIT's 2018 racecar*
 
 As suspension lead, managed a team of over 10 members to design, manufacture, and test the pull rods, ARBs, rockers, and steering, starting from first principles. I was also of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. 
 
