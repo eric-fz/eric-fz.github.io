@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023-2024: Effects of Surface Roughness on Epoxy Adhesion Strength Between Aluminum and Carbon Fiber"
-truncated_preview: true
+truncated_preview: false
 ---
 ### Overview
 
