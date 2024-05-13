@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fall 2023: Suspension Design"
+title: "2023-2024: Suspension Design for Formula Style Racecar"
 truncated_preview: true
 excerpt_separator: <!--more-->
 ---
@@ -8,19 +8,19 @@ excerpt_separator: <!--more-->
 
 ![SuspensionGif](/SuspensionGif.gif)
 
-Since June, I have been working with the MIT Motorsports Formula SAE Team to design the entirety of the suspension system for the Model Year 2024 car. The design process for each subsystem begins with vehicle dynamics and kinematics, geometric constraints, and team goals, and with these factors, we set specific design requirements. We then follow a series of design reviews as the subsystems develop from various conceptual architectures to fully-fledged CAD models, to physical parts in January. The suspension team simulates tire properties and suspension geometry using Matlab, OptimumK, and Optimum Tire. For CAD, CAM, and FEA we use Siemens NX. All parts on the suspension system are machined in-house using our HAAS CNC Mill, manual lathes, and 3D printers.
+Since June, I have been working with the MIT Motorsports Formula SAE Team to design the entirety of the suspension system for the Model Year 2024 car. The design process for each subsystem begins with vehicle dynamics and kinematics, geometric constraints, and team goals, and with these factors, we set specific design requirements. We then follow a series of design reviews as the subsystems develop from various conceptual architectures to fully-fledged CAD models, to physical parts in January. The suspension team simulates tire properties and suspension geometry using Matlab, OptimumK, and Optimum Tire. For CAD, CAM, and FEA we use Siemens NX. All parts on the suspension system are machined in-house using our HAAS CNC Mill, manual lathes, and 3D printers. To validate the simulated vehicle dynamics and load cases, various sensors were implemented onto the physical car. These included an IMU, strain gauges on the control rods, and shock potentiometers. Attached is the [design binder](/MY24%20Suspension%20Design%20Binder.pdf) for the suspension, as well as a [poster](/SuspensionDeFlorez.pdf) I submitted to MIT's DeFlorez Mechanical Engineering Awards. 
 
 <!--more-->
 
 ![MY18Susp](/my18susp.jpeg)
 *Suspension from MIT's 2018 racecar*
 
-As suspension lead, I am managing a team of over 15 members to design the pull rods, ARBs, rockers, and steering, starting from first principles. I am also in charge of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. 
+As suspension lead, managed a team of over 10 members to design, manufacture, and test the pull rods, ARBs, rockers, and steering, starting from first principles. I was also of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. 
 
 ![TireFits](/tires.png)
 *Tire models fit using Tire Testing Consortium data and Pacejka's Magic Formula 6.2.*
 
-This highly iterative process requires constant communication with the chassis, powertrain, and aerodynamics teams in order to eliminate packaging conflicts and optimize the suspension system with ever-changing car parameters. Designing the suspension geometry began in early August, and the design freeze is in the last week of October. After October, I will be working mainly on validating my design through finite element analysis, as well as testing our control arms physically using an Instron tensile tester. Documentation of the entire design process is expected, to ensure proper knowledge transfer, to both current and future new members. Some specific innovations we are implementing this year include carbon fiber control arms, modeling suspension compliance/deflection, and writing a caster optimization script.
+This highly iterative process requires constant communication with the chassis, powertrain, and aerodynamics teams in order to eliminate packaging conflicts and optimize the suspension system with ever-changing car parameters. Designing the suspension geometry began in early August, and the design freeze is in the last week of October. After October, I will be working mainly on validating my design through finite element analysis, as well as testing our control arms physically using an Instron tensile tester. Documentation of the entire design process is expected, to ensure proper knowledge transfer, to both current and future new members. Some specific innovations we are implementing this year included modeling suspension compliance/deflection, and writing a caster optimization script.
 
 ![SuspPoints](/suspoints.png)
 *MY24 Suspension Points v4*
