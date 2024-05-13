@@ -14,7 +14,9 @@ Since June, I have been working with the MIT Motorsports Formula SAE Team to des
 
 <!--more-->
 
-As suspension lead, managed a team of over 10 members to design, manufacture, and test the pull rods, ARBs, rockers, and steering, starting from first principles. I was also of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. 
+As suspension lead, managed a team of over 10 members to design, manufacture, and test the pull rods, ARBs, rockers, and steering, starting from first principles. I was also of determining our suspension point geometry and choosing our tires, both vital for optimizing both lateral and longitudinal acceleration for the racecar, as well as maintaining driver comfort. Below is a workflow diagram outlining the process from physics, to design, to the final product.
+
+![Workflow](/workflow.png)
 
 ![TireFits](/tires.png)
 *Tire models fit using Tire Testing Consortium data and Pacejka's Magic Formula 6.2.*
@@ -35,3 +37,14 @@ You can find our hand calculations excel spreadsheet [here.](/Aarms.xlsm)
 
 ![MotionAnalysis](/MotionAnalysis.png)
 *I performed motion analysis on our final suspension points to check for interferences with the wheel center rims*
+
+
+Over the Independent Activities Period in January, all 8 A-arms, 4 pull rods, 2 tie rods, and 2 toe rods were machined by hand for the MY24 suspension system. This process included milling A-arms to length, manually cutting slots, waterjetting the various joints and tabs, and welding everything together. All 22 steel rod inserts and 32 aluminum spacers were machined on the lathe. Each of these inserts has been machined to within 3 thousandths in order to maintain concentricity. These inserts were machined and then sanded down to a slip fit so that the inserts could slide in and out of the tubes during jigging until the rod ends were aligned with the jigged suspension points. 
+
+![TubesandJoints](/tubes%20and%20joints.png)
+![AarmJig](/AarmJig.jpg.png)
+
+
+
+
+
