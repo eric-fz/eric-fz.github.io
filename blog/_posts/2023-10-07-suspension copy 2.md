@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 ### Overview
 
 ![SuspensionGif](/SuspensionGif.gif)
-![SuspensionRL](/SuspensionRL.png)
+<img src="SuspensionRL.jpg" alt="SuspensionRL" width="400"/>
 ![SuspensionCAD](/suspensionfullcad.png)
 
 Since June, I have been working with the MIT Motorsports Formula SAE Team to design the entirety of the suspension system for the Model Year 2024 car. The design process for each subsystem begins with vehicle dynamics and kinematics, geometric constraints, and team goals, and with these factors, we set specific design requirements. We then follow a series of design reviews as the subsystems develop from various conceptual architectures to fully-fledged CAD models, to physical parts in January. The suspension team simulates tire properties and suspension geometry using Matlab, OptimumK, and Optimum Tire. For CAD, CAM, and FEA we use Siemens NX. All parts on the suspension system are machined in-house using our HAAS CNC Mill, manual lathes, and 3D printers. To validate the simulated vehicle dynamics and load cases, various sensors were implemented onto the physical car. These included an IMU, strain gauges on the control rods, and shock potentiometers. Attached is the [design binder](/MY24%20Suspension%20Design%20Binder.pdf) for the suspension, as well as a [poster](/SuspensionDeFlorez.pdf) I submitted to MIT's DeFlorez Mechanical Engineering Awards. 
