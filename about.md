@@ -7,7 +7,7 @@ title: About
 
 ### Me
 
-Hi there! I'm Eric, a sophomore at MIT studying mechanical engineering, robotics, and management. I also dabble in graphic design, art, and photography in my limited free time. Here you'll find a collection of projects I've worked on individually and with friends. My resume is linked [here](/resume.pdf). If you have any questions, feel free to email me at [ericz@mit.edu](mailto:ericz@mit.edu).
+I'm Eric, a senior at MIT studying Mechanical Engineering with a concentration in Controls, Instrumentation, and Robotics. I like building things and teams both. My resume is linked [here](/EricZhou_Resume_2026.pdf). If you have any questions, feel free to email me at [ericz@mit.edu](mailto:ericz@mit.edu).
 
 ### Experience
-At MIT, I am the Suspension Lead of MIT's Formula SAE team, MIT Motorsports. I also work with my friends on personal electromechanical projects. This past summer, I was an Engineering Intern for a battery technology start-up Group14 Technologies, reflective of my passion for deep-tech hardware startups and large-scale manufacturing. I've also dipped my toes in research at MIT's DeCoDE Lab, where I worked on a project developing a computationally generated dataset of virtual geartrains throughout my first year. 
+In the summer of 2025, I worked on Starlink at SpaceX, as a Mechanical Engineering intern on the solar mechanisms team. The summer prior, I worked at a smaller space company, Varda Space Industries, where I helped develop payload mechanisms for their fourth ever reentry vehicle, Winnebago 4. My contributions launched into space in June 2025. In the 2024-2025 school year, I was Team Captain of MIT's Formula SAE team, where we placed 9th at the FSAE Electric Competition in Michigan, with our first four-wheel drive racecar. This was following my stint as Suspenion Lead in 2023-2024. I also have dabbled in research at MIT, working as an Undergraduate Researcher at the DeCoDE and D'arbeloff Laboratories.  
